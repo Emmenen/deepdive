@@ -1,0 +1,9 @@
+
+qiniu:
+  AccessKey: X_SRypTH117tcdS69CFePT7FFedcigA1K4_hZGlG
+  SecretKey: LxOyfhej3bXw4a8JGxhdtxVkPDomXZoGdzX4LbWA
+  zone: BEI_MEI
+  resourcesUrl: cdn.ddinfo.top
+  bucket: deepdivemi
+server:
+  port: 8888

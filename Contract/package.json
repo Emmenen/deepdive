@@ -1,0 +1,19 @@
+{
+  "name": "1155demo",
+  "version": "1.0.0",
+  "description": "This is a sample project of [OpenZeppelin contracts](https://openzeppelin.com/contracts/).",
+  "main": "truffle-config.js",
+  "scripts": {
+    "build": "npx cfxtruffle compile",
+    "deploy": "npx cfxtruffle deploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.7.3"
+  },
+  "dependencies": {
+    "@confluxfans/contracts": "^0.2.7"
+  }
+}
